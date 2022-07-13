@@ -14,10 +14,10 @@
 Compares VGG16, VGG19, XCEPTION and a new model for classification of leaf diseases in tomato leaves. All the models are based on CNN and constructed with tensorflow. Converted to TFLITE for flutter
 
 ### Homepage
-![Alt Text](Assets/homepage.png)
+![Alt Text](assets/Homepage.png)
 
 ### App detecting disease
-![Alt Text](assets/detect.png)
+![Alt Text](assets/Detect.png)
 
 ### Info on disease
 ![Alt Text](assets/info.png)
