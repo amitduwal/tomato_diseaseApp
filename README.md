@@ -1,16 +1,26 @@
-# tomato_final
+# TomatoDiseaseDetectionApp
+## TOMATO LEAF DISEASE DETECTION USING DEEPLEARNING AND FLutter
 
-A new Flutter project.
+**Submitted in partial fulfillment of the requirements for the degree BACHELOR OF COMPUTER ENGINEERING**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Submitted by:**
+>Amit Duwal   [Contact](https://www.linkedin.com/in/amit-duwal-696310200/)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dataset: [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease)
+
+Compares VGG16, VGG19, XCEPTION and a new model for classification of leaf diseases in tomato leaves. All the models are based on CNN and constructed with tensorflow. Converted to TFLITE for flutter
+
+### Homepage
+![Alt Text](Assets/homepage.png)
+
+### App detecting disease
+![Alt Text](assets/detect.png)
+
+### Info on disease
+![Alt Text](assets/info.png)
+
+### Diseases listed
+![Alt Text](assets/list.png)
